@@ -1,1 +1,1 @@
-# Wieght_height_Simple_Linear
+# Weight_height_Simple_Linear
